@@ -1,0 +1,30 @@
+{
+  "protein_grouped_cv": {
+    "accuracy": {
+      "mean": 0.9134512427093963,
+      "std": 0.013886095941442023
+    },
+    "precision": {
+      "mean": 0.9240234481723342,
+      "std": 0.01021941507342646
+    },
+    "recall": {
+      "mean": 0.9634609539462575,
+      "std": 0.009397226832608789
+    },
+    "f1": {
+      "mean": 0.943317892365085,
+      "std": 0.009079600680819023
+    },
+    "balanced_accuracy": {
+      "mean": 0.8644794181727742,
+      "std": 0.019536112045152845
+    }
+  },
+  "leave_one_gene_out": {
+    "mean_rf_accuracy": 0.702173685593105,
+    "mean_majority_accuracy": 0.7746877210145482,
+    "mean_rf_balanced_accuracy": 0.5185048572735302
+  },
+  "interpretation_note": "Leave-one-gene-out evaluates transfer to a gene absent from training. Do not claim generalization to unseen genes if performance is below baseline."
+}

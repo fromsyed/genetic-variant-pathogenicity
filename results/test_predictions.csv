@@ -1,0 +1,565 @@
+VariationID,Gene,Name,Germline classification,Protein_Position,Original_AA,New_AA,Label,Predicted_Label,Predicted_Class,Actual_Class,Correct
+485029,TP53,NM_000546.6(TP53):c.1153T>C (p.Phe385Leu),Likely benign,385,F,L,0,0,Benign,Benign,True
+932276,PAH,NM_000277.3(PAH):c.659A>C (p.His220Pro),Likely pathogenic,220,H,P,1,1,Pathogenic,Pathogenic,True
+54613,BRCA1,NM_007294.4(BRCA1):c.2597G>A (p.Arg866His),Benign,866,R,H,0,0,Benign,Benign,True
+251760,LDLR,NM_000527.5(LDLR):c.1268T>C (p.Ile423Thr),Pathogenic/Likely pathogenic,423,I,T,1,1,Pathogenic,Pathogenic,True
+102783,PAH,NM_000277.3(PAH):c.678G>C (p.Gln226His),Pathogenic,226,Q,H,1,1,Pathogenic,Pathogenic,True
+251205,LDLR,NM_000527.5(LDLR):c.402C>G (p.Cys134Trp),Likely pathogenic,134,C,W,1,1,Pathogenic,Pathogenic,True
+39516,CFTR,NM_000492.4(CFTR):c.3302T>A (p.Met1101Lys),Pathogenic,1101,M,K,1,1,Pathogenic,Pathogenic,True
+3067710,CFTR,NM_000492.4(CFTR):c.1769G>C (p.Cys590Ser),Likely pathogenic,590,C,S,1,1,Pathogenic,Pathogenic,True
+102809,PAH,NM_000277.3(PAH):c.733G>A (p.Val245Met),Pathogenic,245,V,M,1,1,Pathogenic,Pathogenic,True
+251266,LDLR,NM_000527.5(LDLR):c.514G>A (p.Asp172Asn),Pathogenic/Likely pathogenic,172,D,N,1,1,Pathogenic,Pathogenic,True
+251675,LDLR,NM_000527.5(LDLR):c.1120_1121delinsTC (p.Gly374Ser),Likely benign,374,G,S,0,1,Pathogenic,Benign,False
+102862,PAH,NM_000277.3(PAH):c.833C>A (p.Thr278Asn),Pathogenic,278,T,N,1,1,Pathogenic,Pathogenic,True
+208179,PAH,NM_000277.3(PAH):c.1025C>A (p.Ala342Glu),Likely pathogenic,342,A,E,1,1,Pathogenic,Pathogenic,True
+440680,LDLR,NM_000527.5(LDLR):c.2131T>G (p.Cys711Gly),Pathogenic,711,C,G,1,1,Pathogenic,Pathogenic,True
+7187,CFTR,NM_000492.4(CFTR):c.1438G>T (p.Gly480Cys),Pathogenic/Likely pathogenic,480,G,C,1,1,Pathogenic,Pathogenic,True
+805825,PAH,NM_000277.3(PAH):c.902A>C (p.Gln301Pro),Pathogenic,301,Q,P,1,1,Pathogenic,Pathogenic,True
+4802595,LDLR,NM_000527.5(LDLR):c.648T>G (p.Cys216Trp),Likely pathogenic,216,C,W,1,1,Pathogenic,Pathogenic,True
+1331036,HBB,NM_000518.5(HBB):c.16C>G (p.Pro6Ala),Likely benign,6,P,A,0,0,Benign,Benign,True
+53821,CFTR,NM_000492.4(CFTR):c.3844T>G (p.Trp1282Gly),Pathogenic,1282,W,G,1,1,Pathogenic,Pathogenic,True
+375811,LDLR,NM_000527.5(LDLR):c.1205T>C (p.Phe402Ser),Likely pathogenic,402,F,S,1,1,Pathogenic,Pathogenic,True
+251870,LDLR,NM_000527.5(LDLR):c.1495T>C (p.Ser499Pro),Likely pathogenic,499,S,P,1,1,Pathogenic,Pathogenic,True
+226315,LDLR,NM_000527.5(LDLR):c.311G>A (p.Cys104Tyr),Pathogenic/Likely pathogenic,104,C,Y,1,1,Pathogenic,Pathogenic,True
+867392,BRCA1,NM_007294.4(BRCA1):c.5439T>A (p.Asp1813Glu),Likely benign,1813,D,E,0,1,Pathogenic,Benign,False
+37455,BRCA1,NM_007294.4(BRCA1):c.2207A>C (p.Glu736Ala),Benign/Likely benign,736,E,A,0,0,Benign,Benign,True
+53227,CFTR,NM_000492.4(CFTR):c.131A>G (p.Asp44Gly),Pathogenic,44,D,G,1,1,Pathogenic,Pathogenic,True
+54932,BRCA1,NM_007294.4(BRCA1):c.3601G>A (p.Gly1201Ser),Benign/Likely benign,1201,G,S,0,0,Benign,Benign,True
+251665,LDLR,NM_000527.5(LDLR):c.1103G>A (p.Cys368Tyr),Pathogenic/Likely pathogenic,368,C,Y,1,1,Pathogenic,Pathogenic,True
+495953,CFTR,NM_000492.4(CFTR):c.571T>G (p.Phe191Val),Pathogenic,191,F,V,1,1,Pathogenic,Pathogenic,True
+4856537,BRCA1,NM_007294.4(BRCA1):c.924C>A (p.Ser308Arg),Likely benign,308,S,R,0,0,Benign,Benign,True
+3685,LDLR,NM_000527.5(LDLR):c.259T>G (p.Trp87Gly),Pathogenic,87,W,G,1,1,Pathogenic,Pathogenic,True
+557425,PAH,NM_000277.3(PAH):c.689T>C (p.Val230Ala),Likely pathogenic,230,V,A,1,1,Pathogenic,Pathogenic,True
+37604,BRCA1,NM_007294.4(BRCA1):c.4675G>A (p.Glu1559Lys),Pathogenic,1559,E,K,1,0,Benign,Pathogenic,False
+102484,PAH,NM_000277.3(PAH):c.1033G>T (p.Ala345Ser),Pathogenic,345,A,S,1,1,Pathogenic,Pathogenic,True
+487375,CFTR,NM_000492.4(CFTR):c.1647T>A (p.Ser549Arg),Pathogenic,549,S,R,1,1,Pathogenic,Pathogenic,True
+102623,PAH,NM_000277.3(PAH):c.194T>A (p.Ile65Asn),Likely pathogenic,65,I,N,1,1,Pathogenic,Pathogenic,True
+1327552,PAH,NM_000277.3(PAH):c.1249T>G (p.Tyr417Asp),Likely pathogenic,417,Y,D,1,1,Pathogenic,Pathogenic,True
+231485,TP53,NM_000546.6(TP53):c.1060C>A (p.Gln354Lys),Benign,354,Q,K,0,0,Benign,Benign,True
+53910,CFTR,NM_000492.4(CFTR):c.416A>T (p.His139Leu),Pathogenic/Likely pathogenic,139,H,L,1,1,Pathogenic,Pathogenic,True
+376587,TP53,NM_000546.6(TP53):c.843C>G (p.Asp281Glu),Pathogenic/Likely pathogenic,281,D,E,1,0,Benign,Pathogenic,False
+1754112,TP53,NM_000546.6(TP53):c.653T>A (p.Val218Glu),Likely pathogenic,218,V,E,1,1,Pathogenic,Pathogenic,True
+619705,PAH,NM_000277.3(PAH):c.461A>T (p.Tyr154Phe),Likely pathogenic,154,Y,F,1,1,Pathogenic,Pathogenic,True
+251268,LDLR,NM_000527.5(LDLR):c.514G>T (p.Asp172Tyr),Pathogenic/Likely pathogenic,172,D,Y,1,1,Pathogenic,Pathogenic,True
+251897,LDLR,NM_000527.5(LDLR):c.1558A>G (p.Arg520Gly),Pathogenic/Likely pathogenic,520,R,G,1,0,Benign,Pathogenic,False
+53382,CFTR,NM_000492.4(CFTR):c.1766G>A (p.Ser589Asn),Pathogenic/Likely pathogenic,589,S,N,1,1,Pathogenic,Pathogenic,True
+12352,TP53,NM_000546.6(TP53):c.747G>T (p.Arg249Ser),Pathogenic/Likely pathogenic,249,R,S,1,1,Pathogenic,Pathogenic,True
+251284,LDLR,NM_000527.5(LDLR):c.532G>C (p.Asp178His),Pathogenic/Likely pathogenic,178,D,H,1,1,Pathogenic,Pathogenic,True
+977987,LDLR,NM_000527.5(LDLR):c.1019G>T (p.Cys340Phe),Pathogenic/Likely pathogenic,340,C,F,1,1,Pathogenic,Pathogenic,True
+102488,PAH,NM_000277.3(PAH):c.1039C>T (p.Leu347Phe),Likely pathogenic,347,L,F,1,1,Pathogenic,Pathogenic,True
+53606,CFTR,NM_000492.4(CFTR):c.293A>G (p.Gln98Arg),Pathogenic,98,Q,R,1,1,Pathogenic,Pathogenic,True
+183126,LDLR,NM_000527.5(LDLR):c.1784G>A (p.Arg595Gln),Pathogenic,595,R,Q,1,1,Pathogenic,Pathogenic,True
+53798,CFTR,NM_000492.4(CFTR):c.3731G>T (p.Gly1244Val),Likely pathogenic,1244,G,V,1,1,Pathogenic,Pathogenic,True
+4857331,PAH,NM_000277.3(PAH):c.878T>C (p.Leu293Ser),Likely pathogenic,293,L,S,1,1,Pathogenic,Pathogenic,True
+186913,BRCA1,NM_007294.4(BRCA1):c.101C>T (p.Pro34Leu),Likely pathogenic,34,P,L,1,1,Pathogenic,Pathogenic,True
+53677,CFTR,NM_000492.4(CFTR):c.3196C>A (p.Arg1066Ser),Likely pathogenic,1066,R,S,1,1,Pathogenic,Pathogenic,True
+810851,LDLR,NM_000527.5(LDLR):c.1736A>T (p.Asp579Val),Pathogenic,579,D,V,1,1,Pathogenic,Pathogenic,True
+251396,LDLR,NM_000527.5(LDLR):c.691T>C (p.Cys231Arg),Pathogenic/Likely pathogenic,231,C,R,1,1,Pathogenic,Pathogenic,True
+251461,LDLR,NM_000527.5(LDLR):c.801A>T (p.Glu267Asp),Likely pathogenic,267,E,D,1,1,Pathogenic,Pathogenic,True
+15122,HBB,NM_000518.5(HBB):c.257T>C (p.Phe86Ser),Pathogenic,86,F,S,1,1,Pathogenic,Pathogenic,True
+252105,LDLR,NM_000527.5(LDLR):c.1886T>G (p.Phe629Cys),Likely pathogenic,629,F,C,1,1,Pathogenic,Pathogenic,True
+237938,TP53,NM_000546.6(TP53):c.1009C>G (p.Arg337Gly),Likely pathogenic,337,R,G,1,1,Pathogenic,Pathogenic,True
+267497,BRCA1,NM_007294.4(BRCA1):c.117T>G (p.Cys39Trp),Pathogenic,39,C,W,1,1,Pathogenic,Pathogenic,True
+37507,BRCA1,NM_007294.4(BRCA1):c.3083G>A (p.Arg1028His),Benign,1028,R,H,0,0,Benign,Benign,True
+251269,LDLR,NM_000527.5(LDLR):c.515A>G (p.Asp172Gly),Likely pathogenic,172,D,G,1,1,Pathogenic,Pathogenic,True
+430790,LDLR,NM_000527.5(LDLR):c.1979A>C (p.Gln660Pro),Likely pathogenic,660,Q,P,1,1,Pathogenic,Pathogenic,True
+54200,BRCA1,NM_007294.4(BRCA1):c.131G>T (p.Cys44Phe),Pathogenic,44,C,F,1,1,Pathogenic,Pathogenic,True
+431216,BRCA1,NM_007294.4(BRCA1):c.1561G>C (p.Ala521Pro),Likely benign,521,A,P,0,0,Benign,Benign,True
+4841330,CFTR,NM_000492.4(CFTR):c.3932G>A (p.Ser1311Asn),Likely benign,1311,S,N,0,0,Benign,Benign,True
+4856538,BRCA1,NM_007294.4(BRCA1):c.2391A>C (p.Glu797Asp),Likely benign,797,E,D,0,0,Benign,Benign,True
+183116,LDLR,NM_000527.5(LDLR):c.1414G>T (p.Asp472Tyr),Pathogenic,472,D,Y,1,1,Pathogenic,Pathogenic,True
+5021093,LDLR,NM_000527.5(LDLR):c.2072C>G (p.Ser691Trp),Likely pathogenic,691,S,W,1,1,Pathogenic,Pathogenic,True
+55099,BRCA1,NM_007294.4(BRCA1):c.4081A>C (p.Met1361Leu),Benign,1361,M,L,0,0,Benign,Benign,True
+3764540,LDLR,NM_000527.5(LDLR):c.397G>C (p.Asp133His),Pathogenic,133,D,H,1,1,Pathogenic,Pathogenic,True
+376632,TP53,NM_000546.6(TP53):c.332T>A (p.Leu111Gln),Pathogenic,111,L,Q,1,1,Pathogenic,Pathogenic,True
+54990,BRCA1,NM_007294.4(BRCA1):c.3758C>A (p.Ser1253Tyr),Likely benign,1253,S,Y,0,0,Benign,Benign,True
+4856544,BRCA1,NM_007294.4(BRCA1):c.4106C>T (p.Ala1369Val),Likely benign,1369,A,V,0,0,Benign,Benign,True
+102784,PAH,NM_000277.3(PAH):c.688G>A (p.Val230Ile),Likely pathogenic,230,V,I,1,1,Pathogenic,Pathogenic,True
+1185009,PAH,NM_000277.3(PAH):c.910C>A (p.Gln304Lys),Likely pathogenic,304,Q,K,1,1,Pathogenic,Pathogenic,True
+15176,HBB,NM_000518.4(HBB):c.23A>G (p.Glu8Gly),Likely benign,8,E,G,0,1,Pathogenic,Benign,False
+53359,CFTR,NM_000492.4(CFTR):c.1720C>T (p.Pro574Ser),Pathogenic,574,P,S,1,1,Pathogenic,Pathogenic,True
+15546,HBB,NM_000518.4(HBB):c.137T>G (p.Phe46Cys),Likely pathogenic,46,F,C,1,1,Pathogenic,Pathogenic,True
+639999,PAH,NM_000277.3(PAH):c.1262T>G (p.Ile421Ser),Likely pathogenic,421,I,S,1,1,Pathogenic,Pathogenic,True
+161290,LDLR,NM_000527.5(LDLR):c.1783C>T (p.Arg595Trp),Pathogenic,595,R,W,1,1,Pathogenic,Pathogenic,True
+102797,PAH,NM_000277.3(PAH):c.715G>A (p.Gly239Ser),Pathogenic,239,G,S,1,1,Pathogenic,Pathogenic,True
+4073507,CFTR,NM_000492.4(CFTR):c.1520T>G (p.Ile507Ser),Likely pathogenic,507,I,S,1,1,Pathogenic,Pathogenic,True
+55262,BRCA1,NM_007294.4(BRCA1):c.4691T>C (p.Leu1564Pro),Benign,1564,L,P,0,0,Benign,Benign,True
+92756,PAH,NM_000277.3(PAH):c.974A>G (p.Tyr325Cys),Likely pathogenic,325,Y,C,1,1,Pathogenic,Pathogenic,True
+417832,BRCA1,NM_007294.4(BRCA1):c.5309G>T (p.Gly1770Val),Pathogenic,1770,G,V,1,1,Pathogenic,Pathogenic,True
+1975487,LDLR,NM_000527.5(LDLR):c.1298A>C (p.Asp433Ala),Likely pathogenic,433,D,A,1,1,Pathogenic,Pathogenic,True
+55154,BRCA1,NM_007294.4(BRCA1):c.4255G>C (p.Glu1419Gln),Benign,1419,E,Q,0,1,Pathogenic,Benign,False
+1523410,PAH,NM_000277.3(PAH):c.320A>C (p.His107Pro),Likely pathogenic,107,H,P,1,1,Pathogenic,Pathogenic,True
+102845,PAH,NM_000277.3(PAH):c.808A>G (p.Arg270Gly),Pathogenic,270,R,G,1,1,Pathogenic,Pathogenic,True
+53764,CFTR,NM_000492.4(CFTR):c.350G>C (p.Arg117Pro),Pathogenic,117,R,P,1,1,Pathogenic,Pathogenic,True
+375786,LDLR,NM_000527.5(LDLR):c.610T>G (p.Cys204Gly),Pathogenic/Likely pathogenic,204,C,G,1,1,Pathogenic,Pathogenic,True
+3460308,TP53,NM_000546.6(TP53):c.280T>G (p.Ser94Ala),Likely benign,94,S,A,0,0,Benign,Benign,True
+53709,CFTR,NM_000492.4(CFTR):c.3294G>C (p.Trp1098Cys),Pathogenic,1098,W,C,1,1,Pathogenic,Pathogenic,True
+375799,LDLR,NM_000527.5(LDLR):c.743G>C (p.Cys248Ser),Likely pathogenic,248,C,S,1,1,Pathogenic,Pathogenic,True
+4378735,PAH,NM_000277.3(PAH):c.696G>T (p.Gln232His),Likely pathogenic,232,Q,H,1,1,Pathogenic,Pathogenic,True
+41833,BRCA1,NM_007294.4(BRCA1):c.5579A>C (p.His1860Pro),Benign,1860,H,P,0,1,Pathogenic,Benign,False
+409370,BRCA1,NM_007294.4(BRCA1):c.5259A>T (p.Arg1753Ser),Likely pathogenic,1753,R,S,1,1,Pathogenic,Pathogenic,True
+3336652,CFTR,NM_000492.4(CFTR):c.1559T>C (p.Val520Ala),Likely pathogenic,520,V,A,1,1,Pathogenic,Pathogenic,True
+4856527,BRCA1,NM_007294.4(BRCA1):c.2572C>G (p.Gln858Glu),Likely benign,858,Q,E,0,0,Benign,Benign,True
+54522,BRCA1,NM_007294.4(BRCA1):c.2286A>T (p.Arg762Ser),Benign,762,R,S,0,0,Benign,Benign,True
+868673,BRCA1,NM_007294.4(BRCA1):c.5117G>T (p.Gly1706Val),Likely pathogenic,1706,G,V,1,1,Pathogenic,Pathogenic,True
+1706040,CFTR,NM_000492.4(CFTR):c.1209G>T (p.Glu403Asp),Likely pathogenic,403,E,D,1,1,Pathogenic,Pathogenic,True
+102538,PAH,NM_000277.3(PAH):c.1157A>G (p.Tyr386Cys),Pathogenic,386,Y,C,1,1,Pathogenic,Pathogenic,True
+251362,LDLR,NM_000527.5(LDLR):c.665G>T (p.Cys222Phe),Likely pathogenic,222,C,F,1,1,Pathogenic,Pathogenic,True
+1766454,TP53,NM_000546.6(TP53):c.929A>G (p.Asn310Ser),Likely benign,310,N,S,0,0,Benign,Benign,True
+2744449,LDLR,NM_000527.5(LDLR):c.1165A>G (p.Thr389Ala),Likely pathogenic,389,T,A,1,1,Pathogenic,Pathogenic,True
+183093,LDLR,NM_000527.5(LDLR):c.665G>A (p.Cys222Tyr),Pathogenic/Likely pathogenic,222,C,Y,1,1,Pathogenic,Pathogenic,True
+80708,TP53,NM_000546.6(TP53):c.1093C>T (p.His365Tyr),Likely benign,365,H,Y,0,0,Benign,Benign,True
+440623,LDLR,NM_000527.5(LDLR):c.1067A>T (p.Asp356Val),Likely pathogenic,356,D,V,1,1,Pathogenic,Pathogenic,True
+251285,LDLR,NM_000527.5(LDLR):c.532G>T (p.Asp178Tyr),Likely pathogenic,178,D,Y,1,1,Pathogenic,Pathogenic,True
+2891786,PAH,NM_000277.3(PAH):c.835C>A (p.Pro279Thr),Pathogenic,279,P,T,1,1,Pathogenic,Pathogenic,True
+102624,PAH,NM_000277.3(PAH):c.194T>G (p.Ile65Ser),Likely pathogenic,65,I,S,1,1,Pathogenic,Pathogenic,True
+1809781,LDLR,NM_000527.5(LDLR):c.281A>T (p.Asp94Val),Likely pathogenic,94,D,V,1,1,Pathogenic,Pathogenic,True
+618927,CFTR,NM_000492.4(CFTR):c.1687T>C (p.Tyr563His),Pathogenic/Likely pathogenic,563,Y,H,1,1,Pathogenic,Pathogenic,True
+250981,LDLR,NM_000527.5(LDLR):c.44T>C (p.Leu15Pro),Likely pathogenic,15,L,P,1,0,Benign,Pathogenic,False
+805823,PAH,NM_000277.3(PAH):c.890G>T (p.Arg297Leu),Likely pathogenic,297,R,L,1,1,Pathogenic,Pathogenic,True
+54013,CFTR,NM_000492.4(CFTR):c.57G>T (p.Trp19Cys),Likely pathogenic,19,W,C,1,1,Pathogenic,Pathogenic,True
+2152160,PAH,NM_000277.3(PAH):c.641A>G (p.Glu214Gly),Likely pathogenic,214,E,G,1,1,Pathogenic,Pathogenic,True
+531241,BRCA1,NM_007294.4(BRCA1):c.53T>G (p.Met18Arg),Likely pathogenic,18,M,R,1,1,Pathogenic,Pathogenic,True
+4073504,CFTR,NM_000492.4(CFTR):c.1558G>C (p.Val520Leu),Likely pathogenic,520,V,L,1,1,Pathogenic,Pathogenic,True
+102731,PAH,NM_000277.3(PAH):c.545A>G (p.Glu182Gly),Likely pathogenic,182,E,G,1,1,Pathogenic,Pathogenic,True
+3328160,TP53,NM_000546.6(TP53):c.1004G>T (p.Arg335Leu),Likely benign,335,R,L,0,0,Benign,Benign,True
+226344,LDLR,NM_000527.5(LDLR):c.986G>A (p.Cys329Tyr),Pathogenic/Likely pathogenic,329,C,Y,1,1,Pathogenic,Pathogenic,True
+251320,LDLR,NM_000527.5(LDLR):c.611G>A (p.Cys204Tyr),Likely pathogenic,204,C,Y,1,1,Pathogenic,Pathogenic,True
+2443365,CFTR,NM_000492.4(CFTR):c.3434G>C (p.Trp1145Ser),Likely pathogenic,1145,W,S,1,1,Pathogenic,Pathogenic,True
+652430,BRCA1,NM_007294.4(BRCA1):c.72T>G (p.Cys24Trp),Pathogenic,24,C,W,1,1,Pathogenic,Pathogenic,True
+406601,TP53,NM_000546.6(TP53):c.556G>A (p.Asp186Asn),Likely benign,186,D,N,0,1,Pathogenic,Benign,False
+53196,CFTR,NM_000492.4(CFTR):c.1125A>C (p.Leu375Phe),Pathogenic/Likely pathogenic,375,L,F,1,1,Pathogenic,Pathogenic,True
+102768,PAH,NM_000277.3(PAH):c.635T>C (p.Leu212Pro),Likely pathogenic,212,L,P,1,1,Pathogenic,Pathogenic,True
+626282,PAH,NM_000277.3(PAH):c.875C>T (p.Pro292Leu),Likely pathogenic,292,P,L,1,1,Pathogenic,Pathogenic,True
+3336655,CFTR,NM_000492.4(CFTR):c.1508A>G (p.Lys503Arg),Likely pathogenic,503,K,R,1,1,Pathogenic,Pathogenic,True
+689350,LDLR,NM_000527.5(LDLR):c.1261A>G (p.Ser421Gly),Likely benign,421,S,G,0,1,Pathogenic,Benign,False
+867748,BRCA1,NM_007294.4(BRCA1):c.78C>G (p.Ile26Met),Likely benign,26,I,M,0,0,Benign,Benign,True
+2972903,LDLR,NM_000527.5(LDLR):c.902A>T (p.Asp301Val),Pathogenic,301,D,V,1,1,Pathogenic,Pathogenic,True
+102863,PAH,NM_000277.3(PAH):c.833C>T (p.Thr278Ile),Pathogenic,278,T,I,1,1,Pathogenic,Pathogenic,True
+375797,LDLR,NM_000527.5(LDLR):c.706T>G (p.Cys236Gly),Likely pathogenic,236,C,G,1,1,Pathogenic,Pathogenic,True
+54367,BRCA1,NM_007294.4(BRCA1):c.1834A>G (p.Arg612Gly),Benign,612,R,G,0,0,Benign,Benign,True
+4073505,CFTR,NM_000492.4(CFTR):c.1475C>G (p.Ser492Cys),Likely pathogenic,492,S,C,1,1,Pathogenic,Pathogenic,True
+2683812,BRCA1,NM_007294.4(BRCA1):c.1374C>G (p.Asp458Glu),Likely benign,458,D,E,0,0,Benign,Benign,True
+220023,BRCA1,NM_007294.4(BRCA1):c.441G>C (p.Leu147Phe),Likely benign,147,L,F,0,0,Benign,Benign,True
+251130,LDLR,NM_000527.5(LDLR):c.311G>T (p.Cys104Phe),Likely pathogenic,104,C,F,1,1,Pathogenic,Pathogenic,True
+4758075,BRCA1,NM_007294.4(BRCA1):c.2725A>G (p.Asn909Asp),Likely benign,909,N,D,0,0,Benign,Benign,True
+102546,PAH,NM_000277.3(PAH):c.1181A>C (p.Asp394Ala),Likely pathogenic,394,D,A,1,1,Pathogenic,Pathogenic,True
+3266623,CFTR,NM_000492.4(CFTR):c.1250A>G (p.Asn417Ser),Likely benign,417,N,S,0,1,Pathogenic,Benign,False
+251514,LDLR,NM_000527.5(LDLR):c.902A>G (p.Asp301Gly),Pathogenic/Likely pathogenic,301,D,G,1,1,Pathogenic,Pathogenic,True
+102742,PAH,NM_000277.3(PAH):c.581T>C (p.Leu194Pro),Likely pathogenic,194,L,P,1,1,Pathogenic,Pathogenic,True
+102573,PAH,NM_000277.3(PAH):c.122T>C (p.Leu41Pro),Likely pathogenic,41,L,P,1,1,Pathogenic,Pathogenic,True
+208181,PAH,NM_000277.3(PAH):c.836C>T (p.Pro279Leu),Pathogenic/Likely pathogenic,279,P,L,1,1,Pathogenic,Pathogenic,True
+102842,PAH,NM_000277.3(PAH):c.805A>C (p.Ile269Leu),Pathogenic,269,I,L,1,1,Pathogenic,Pathogenic,True
+54059,CFTR,NM_000492.4(CFTR):c.79G>A (p.Gly27Arg),Pathogenic,27,G,R,1,1,Pathogenic,Pathogenic,True
+1065962,BRCA1,NM_007294.4(BRCA1):c.5510_5511delinsCT (p.Trp1837Ser),Likely pathogenic,1837,W,S,1,1,Pathogenic,Pathogenic,True
+376641,TP53,NM_000546.6(TP53):c.451C>G (p.Pro151Ala),Pathogenic,151,P,A,1,1,Pathogenic,Pathogenic,True
+867917,BRCA1,NM_007294.4(BRCA1):c.5274A>T (p.Arg1758Ser),Likely benign,1758,R,S,0,1,Pathogenic,Benign,False
+54179,BRCA1,NM_007294.4(BRCA1):c.1261G>A (p.Glu421Lys),Likely benign,421,E,K,0,0,Benign,Benign,True
+4868819,CFTR,NM_000492.4(CFTR):c.4339G>T (p.Val1447Leu),Likely benign,1447,V,L,0,1,Pathogenic,Benign,False
+932277,PAH,NM_000277.3(PAH):c.674C>T (p.Pro225Leu),Likely pathogenic,225,P,L,1,1,Pathogenic,Pathogenic,True
+3481827,BRCA1,NM_007294.4(BRCA1):c.2411A>T (p.Gln804Leu),Likely benign,804,Q,L,0,0,Benign,Benign,True
+7167,CFTR,NM_000492.4(CFTR):c.3848G>T (p.Arg1283Met),Pathogenic,1283,R,M,1,1,Pathogenic,Pathogenic,True
+2816125,PAH,NM_000277.3(PAH):c.811C>A (p.His271Asn),Pathogenic,271,H,N,1,1,Pathogenic,Pathogenic,True
+531248,BRCA1,NM_007294.4(BRCA1):c.5168T>C (p.Ile1723Thr),Likely benign,1723,I,T,0,1,Pathogenic,Benign,False
+1321227,LDLR,NM_000527.5(LDLR):c.764G>T (p.Cys255Phe),Pathogenic,255,C,F,1,1,Pathogenic,Pathogenic,True
+55700,BRCA1,NM_007294.4(BRCA1):c.788G>C (p.Gly263Ala),Likely benign,263,G,A,0,0,Benign,Benign,True
+102698,PAH,NM_000277.3(PAH):c.490A>G (p.Ile164Val),Likely pathogenic,164,I,V,1,1,Pathogenic,Pathogenic,True
+37488,BRCA1,NM_007294.4(BRCA1):c.2758G>A (p.Val920Ile),Benign,920,V,I,0,0,Benign,Benign,True
+35821,CFTR,NM_000492.4(CFTR):c.1367T>C (p.Val456Ala),Pathogenic,456,V,A,1,1,Pathogenic,Pathogenic,True
+578,PAH,NM_000277.3(PAH):c.932T>C (p.Leu311Pro),Pathogenic,311,L,P,1,1,Pathogenic,Pathogenic,True
+252188,LDLR,NM_000527.5(LDLR):c.2043C>G (p.Cys681Trp),Pathogenic,681,C,W,1,1,Pathogenic,Pathogenic,True
+3328171,TP53,NM_000546.6(TP53):c.1061A>C (p.Gln354Pro),Likely benign,354,Q,P,0,0,Benign,Benign,True
+647970,BRCA1,NM_007294.4(BRCA1):c.132C>G (p.Cys44Trp),Likely pathogenic,44,C,W,1,1,Pathogenic,Pathogenic,True
+226385,LDLR,NM_000527.5(LDLR):c.2030G>T (p.Cys677Phe),Pathogenic/Likely pathogenic,677,C,F,1,1,Pathogenic,Pathogenic,True
+102494,PAH,NM_000277.3(PAH):c.1048T>A (p.Ser350Thr),Likely pathogenic,350,S,T,1,1,Pathogenic,Pathogenic,True
+634836,CFTR,NM_000492.4(CFTR):c.1420G>A (p.Glu474Lys),Pathogenic,474,E,K,1,1,Pathogenic,Pathogenic,True
+375812,LDLR,NM_000527.5(LDLR):c.1256A>G (p.Tyr419Cys),Likely pathogenic,419,Y,C,1,1,Pathogenic,Pathogenic,True
+485027,TP53,NM_000546.6(TP53):c.920C>G (p.Ala307Gly),Likely benign,307,A,G,0,0,Benign,Benign,True
+824960,TP53,NM_000546.6(TP53):c.451_452delinsTT (p.Pro151Phe),Likely pathogenic,151,P,F,1,1,Pathogenic,Pathogenic,True
+251742,LDLR,NM_000527.5(LDLR):c.1230G>T (p.Arg410Ser),Likely pathogenic,410,R,S,1,1,Pathogenic,Pathogenic,True
+1761428,LDLR,NM_000527.5(LDLR):c.796G>C (p.Asp266His),Pathogenic/Likely pathogenic,266,D,H,1,1,Pathogenic,Pathogenic,True
+132973,TP53,NM_000546.6(TP53):c.886C>T (p.His296Tyr),Likely benign,296,H,Y,0,1,Pathogenic,Benign,False
+53965,CFTR,NM_000492.4(CFTR):c.481T>G (p.Tyr161Asp),Pathogenic,161,Y,D,1,1,Pathogenic,Pathogenic,True
+102890,PAH,NM_000277.3(PAH):c.907T>G (p.Ser303Ala),Likely pathogenic,303,S,A,1,1,Pathogenic,Pathogenic,True
+15136,HBB,NM_000518.5(HBB):c.200A>C (p.Lys67Thr),Likely pathogenic,67,K,T,1,1,Pathogenic,Pathogenic,True
+495986,HBB,NM_000518.5(HBB):c.2T>A (p.Met1Lys),Pathogenic/Likely pathogenic,1,M,K,1,1,Pathogenic,Pathogenic,True
+226324,LDLR,NM_000527.5(LDLR):c.427T>G (p.Cys143Gly),Pathogenic/Likely pathogenic,143,C,G,1,1,Pathogenic,Pathogenic,True
+251999,LDLR,NM_000527.5(LDLR):c.1727A>G (p.Tyr576Cys),Pathogenic/Likely pathogenic,576,Y,C,1,1,Pathogenic,Pathogenic,True
+141566,TP53,NM_000546.6(TP53):c.511G>A (p.Glu171Lys),Likely benign,171,E,K,0,1,Pathogenic,Benign,False
+485049,TP53,NM_000546.6(TP53):c.21T>G (p.Asp7Glu),Likely benign,7,D,E,0,0,Benign,Benign,True
+568285,TP53,NM_000546.6(TP53):c.473_474delinsTT (p.Arg158Leu),Pathogenic/Likely pathogenic,158,R,L,1,1,Pathogenic,Pathogenic,True
+376646,TP53,NM_000546.6(TP53):c.833C>A (p.Pro278His),Pathogenic,278,P,H,1,1,Pathogenic,Pathogenic,True
+102661,PAH,NM_000277.3(PAH):c.386A>G (p.Asp129Gly),Likely pathogenic,129,D,G,1,1,Pathogenic,Pathogenic,True
+4856557,BRCA1,NM_007294.4(BRCA1):c.3521C>A (p.Ser1174Tyr),Likely benign,1174,S,Y,0,0,Benign,Benign,True
+1740423,LDLR,NM_000527.5(LDLR):c.1174T>A (p.Cys392Ser),Likely pathogenic,392,C,S,1,1,Pathogenic,Pathogenic,True
+555366,PAH,NM_000277.3(PAH):c.523C>T (p.Pro175Ser),Likely pathogenic,175,P,S,1,1,Pathogenic,Pathogenic,True
+438324,LDLR,NM_000527.5(LDLR):c.1723C>T (p.Leu575Phe),Pathogenic/Likely pathogenic,575,L,F,1,1,Pathogenic,Pathogenic,True
+4818531,CFTR,NM_000492.4(CFTR):c.3233T>C (p.Phe1078Ser),Likely pathogenic,1078,F,S,1,1,Pathogenic,Pathogenic,True
+102735,PAH,NM_000277.3(PAH):c.559T>C (p.Trp187Arg),Likely pathogenic,187,W,R,1,1,Pathogenic,Pathogenic,True
+251770,LDLR,NM_000527.5(LDLR):c.1295T>C (p.Leu432Pro),Likely pathogenic,432,L,P,1,1,Pathogenic,Pathogenic,True
+824351,TP53,NM_000546.6(TP53):c.389T>A (p.Leu130His),Pathogenic,130,L,H,1,1,Pathogenic,Pathogenic,True
+102776,PAH,NM_000277.3(PAH):c.665A>T (p.Asp222Val),Likely pathogenic,222,D,V,1,1,Pathogenic,Pathogenic,True
+805950,BRCA1,NM_007294.4(BRCA1):c.1421T>C (p.Leu474Ser),Likely benign,474,L,S,0,0,Benign,Benign,True
+37706,BRCA1,NM_007294.4(BRCA1):c.827C>G (p.Thr276Arg),Benign,276,T,R,0,0,Benign,Benign,True
+246118,TP53,NM_000546.6(TP53):c.473G>C (p.Arg158Pro),Pathogenic,158,R,P,1,1,Pathogenic,Pathogenic,True
+102706,PAH,NM_000277.3(PAH):c.506G>A (p.Arg169His),Likely pathogenic,169,R,H,1,1,Pathogenic,Pathogenic,True
+3697,LDLR,NM_000527.5(LDLR):c.1637G>A (p.Gly546Asp),Pathogenic/Likely pathogenic,546,G,D,1,1,Pathogenic,Pathogenic,True
+869316,HBB,NM_000518.5(HBB):c.3G>T (p.Met1Ile),Likely pathogenic,1,M,I,1,1,Pathogenic,Pathogenic,True
+231868,TP53,NM_000546.6(TP53):c.23C>T (p.Pro8Leu),Likely benign,8,P,L,0,0,Benign,Benign,True
+694445,HBB,NM_000518.5(HBB):c.190C>A (p.His64Asn),Pathogenic/Likely pathogenic,64,H,N,1,1,Pathogenic,Pathogenic,True
+1763717,LDLR,NM_000527.5(LDLR):c.851G>A (p.Cys284Tyr),Likely pathogenic,284,C,Y,1,1,Pathogenic,Pathogenic,True
+4856575,BRCA1,NM_007294.4(BRCA1):c.2640G>C (p.Glu880Asp),Likely benign,880,E,D,0,0,Benign,Benign,True
+462619,BRCA1,NM_007294.4(BRCA1):c.3667C>T (p.Leu1223Phe),Likely benign,1223,L,F,0,0,Benign,Benign,True
+55637,BRCA1,NM_007294.4(BRCA1):c.5585A>T (p.His1862Leu),Benign/Likely benign,1862,H,L,0,0,Benign,Benign,True
+458082,PAH,NM_000277.3(PAH):c.865G>A (p.Gly289Arg),Pathogenic,289,G,R,1,1,Pathogenic,Pathogenic,True
+4847669,HBB,NM_000518.5(HBB):c.327C>A (p.Asn109Lys),Likely pathogenic,109,N,K,1,1,Pathogenic,Pathogenic,True
+226380,LDLR,NM_000527.5(LDLR):c.1898G>A (p.Arg633His),Pathogenic,633,R,H,1,1,Pathogenic,Pathogenic,True
+251397,LDLR,NM_000527.5(LDLR):c.691T>G (p.Cys231Gly),Pathogenic/Likely pathogenic,231,C,G,1,1,Pathogenic,Pathogenic,True
+92741,PAH,NM_000277.3(PAH):c.355C>T (p.Pro119Ser),Likely pathogenic,119,P,S,1,1,Pathogenic,Pathogenic,True
+4856585,BRCA1,NM_007294.4(BRCA1):c.3173T>C (p.Ile1058Thr),Likely benign,1058,I,T,0,0,Benign,Benign,True
+267523,BRCA1,NM_007294.4(BRCA1):c.3G>C (p.Met1Ile),Pathogenic,1,M,I,1,1,Pathogenic,Pathogenic,True
+102732,PAH,NM_000277.3(PAH):c.547G>C (p.Glu183Gln),Likely pathogenic,183,E,Q,1,1,Pathogenic,Pathogenic,True
+252168,LDLR,NM_000527.5(LDLR):c.2001T>G (p.Cys667Trp),Pathogenic/Likely pathogenic,667,C,W,1,1,Pathogenic,Pathogenic,True
+252017,LDLR,NM_000527.5(LDLR):c.1754T>A (p.Ile585Asn),Likely pathogenic,585,I,N,1,1,Pathogenic,Pathogenic,True
+4935311,BRCA1,NM_007294.4(BRCA1):c.4779A>G (p.Ile1593Met),Likely benign,1593,I,M,0,0,Benign,Benign,True
+4856522,BRCA1,NM_007294.4(BRCA1):c.3292C>G (p.Leu1098Val),Likely benign,1098,L,V,0,0,Benign,Benign,True
+947223,TP53,NM_000546.6(TP53):c.534C>G (p.His178Gln),Pathogenic/Likely pathogenic,178,H,Q,1,1,Pathogenic,Pathogenic,True
+619157,PAH,NM_000277.3(PAH):c.224A>T (p.Asp75Val),Likely pathogenic,75,D,V,1,1,Pathogenic,Pathogenic,True
+3336636,CFTR,NM_000492.4(CFTR):c.1574A>C (p.Gln525Pro),Likely pathogenic,525,Q,P,1,1,Pathogenic,Pathogenic,True
+251944,LDLR,NM_000527.5(LDLR):c.1633G>T (p.Gly545Trp),Pathogenic/Likely pathogenic,545,G,W,1,1,Pathogenic,Pathogenic,True
+1321226,LDLR,NM_000527.5(LDLR):c.727T>A (p.Cys243Ser),Likely pathogenic,243,C,S,1,1,Pathogenic,Pathogenic,True
+55339,BRCA1,NM_007294.4(BRCA1):c.4985T>C (p.Phe1662Ser),Benign,1662,F,S,0,0,Benign,Benign,True
+215997,TP53,NM_000546.6(TP53):c.824G>A (p.Cys275Tyr),Pathogenic/Likely pathogenic,275,C,Y,1,1,Pathogenic,Pathogenic,True
+2133944,LDLR,NM_000527.5(LDLR):c.1645G>C (p.Gly549Arg),Likely pathogenic,549,G,R,1,1,Pathogenic,Pathogenic,True
+4056259,BRCA1,NM_007294.4(BRCA1):c.1285A>G (p.Ile429Val),Likely benign,429,I,V,0,0,Benign,Benign,True
+237872,LDLR,NM_000527.5(LDLR):c.337G>A (p.Glu113Lys),Pathogenic,113,E,K,1,1,Pathogenic,Pathogenic,True
+2795844,TP53,NM_000546.6(TP53):c.143A>G (p.Asp48Gly),Likely benign,48,D,G,0,0,Benign,Benign,True
+187051,BRCA1,NM_007294.4(BRCA1):c.2230G>A (p.Ala744Thr),Likely benign,744,A,T,0,0,Benign,Benign,True
+102740,PAH,NM_000277.3(PAH):c.569T>C (p.Val190Ala),Pathogenic,190,V,A,1,1,Pathogenic,Pathogenic,True
+102856,PAH,NM_000277.3(PAH):c.826A>G (p.Met276Val),Likely pathogenic,276,M,V,1,1,Pathogenic,Pathogenic,True
+55246,BRCA1,NM_007294.4(BRCA1):c.4636G>T (p.Asp1546Tyr),Benign,1546,D,Y,0,0,Benign,Benign,True
+4865862,TP53,NM_000546.6(TP53):c.988C>A (p.Leu330Ile),Likely benign,330,L,I,0,0,Benign,Benign,True
+17661,BRCA1,NM_007294.4(BRCA1):c.181T>G (p.Cys61Gly),Pathogenic,61,C,G,1,1,Pathogenic,Pathogenic,True
+252120,LDLR,NM_000527.5(LDLR):c.1942T>C (p.Ser648Pro),Likely pathogenic,648,S,P,1,1,Pathogenic,Pathogenic,True
+183098,LDLR,NM_000527.5(LDLR):c.846C>A (p.Phe282Leu),Likely pathogenic,282,F,L,1,1,Pathogenic,Pathogenic,True
+440694,LDLR,NM_000527.5(LDLR):c.2413G>C (p.Gly805Arg),Pathogenic,805,G,R,1,1,Pathogenic,Pathogenic,True
+5031066,TP53,NM_000546.6(TP53):c.763A>C (p.Ile255Leu),Likely benign,255,I,L,0,1,Pathogenic,Benign,False
+102823,PAH,NM_000277.3(PAH):c.754C>G (p.Arg252Gly),Pathogenic,252,R,G,1,1,Pathogenic,Pathogenic,True
+251774,LDLR,NM_000527.5(LDLR):c.1301C>G (p.Thr434Arg),Pathogenic,434,T,R,1,1,Pathogenic,Pathogenic,True
+7110,CFTR,NM_000492.4(CFTR):c.1040G>C (p.Arg347Pro),Pathogenic,347,R,P,1,1,Pathogenic,Pathogenic,True
+251281,LDLR,NM_000527.5(LDLR):c.527G>T (p.Gly176Val),Likely pathogenic,176,G,V,1,1,Pathogenic,Pathogenic,True
+865041,BRCA1,NM_007294.4(BRCA1):c.52A>C (p.Met18Leu),Likely benign,18,M,L,0,1,Pathogenic,Benign,False
+15271,HBB,NM_000518.4(HBB):c.206T>C (p.Leu69Pro),Likely pathogenic,69,L,P,1,1,Pathogenic,Pathogenic,True
+53955,CFTR,NM_000492.4(CFTR):c.454A>G (p.Met152Val),Pathogenic/Likely pathogenic,152,M,V,1,1,Pathogenic,Pathogenic,True
+102622,PAH,NM_000277.3(PAH):c.193A>G (p.Ile65Val),Pathogenic,65,I,V,1,1,Pathogenic,Pathogenic,True
+267594,BRCA1,NM_007294.4(BRCA1):c.5297T>A (p.Ile1766Asn),Pathogenic/Likely pathogenic,1766,I,N,1,0,Benign,Pathogenic,False
+230862,BRCA1,NM_007294.4(BRCA1):c.122A>T (p.His41Leu),Likely pathogenic,41,H,L,1,1,Pathogenic,Pathogenic,True
+41830,BRCA1,NM_007294.4(BRCA1):c.4956G>A (p.Met1652Ile),Benign,1652,M,I,0,0,Benign,Benign,True
+7111,CFTR,NM_000492.4(CFTR):c.1364C>A (p.Ala455Glu),Pathogenic,455,A,E,1,1,Pathogenic,Pathogenic,True
+102631,PAH,NM_000277.3(PAH):c.208T>C (p.Ser70Pro),Likely pathogenic,70,S,P,1,1,Pathogenic,Pathogenic,True
+251996,LDLR,NM_000527.5(LDLR):c.1721G>A (p.Arg574His),Likely pathogenic,574,R,H,1,1,Pathogenic,Pathogenic,True
+3460304,TP53,NM_000546.6(TP53):c.612G>C (p.Glu204Asp),Likely benign,204,E,D,0,1,Pathogenic,Benign,False
+2514788,LDLR,NM_000527.5(LDLR):c.1090T>G (p.Cys364Gly),Likely pathogenic,364,C,G,1,1,Pathogenic,Pathogenic,True
+54251,BRCA1,NM_007294.4(BRCA1):c.1427A>G (p.His476Arg),Benign/Likely benign,476,H,R,0,0,Benign,Benign,True
+54099,BRCA1,NM_007294.4(BRCA1):c.1001C>T (p.Pro334Leu),Benign,334,P,L,0,0,Benign,Benign,True
+2677442,PAH,NM_000277.3(PAH):c.929C>G (p.Ser310Cys),Likely pathogenic,310,S,C,1,1,Pathogenic,Pathogenic,True
+2445397,BRCA1,NM_007294.4(BRCA1):c.953A>T (p.His318Leu),Likely pathogenic,318,H,L,1,0,Benign,Pathogenic,False
+102904,PAH,NM_000277.3(PAH):c.940C>A (p.Pro314Thr),Pathogenic,314,P,T,1,1,Pathogenic,Pathogenic,True
+995800,HBB,NM_000518.5(HBB):c.373C>A (p.Pro125Thr),Benign,125,P,T,0,1,Pathogenic,Benign,False
+102895,PAH,NM_000277.3(PAH):c.922C>G (p.Leu308Val),Likely pathogenic,308,L,V,1,1,Pathogenic,Pathogenic,True
+440633,LDLR,NM_000527.5(LDLR):c.1234A>C (p.Met412Leu),Pathogenic,412,M,L,1,1,Pathogenic,Pathogenic,True
+251258,LDLR,NM_000527.5(LDLR):c.502G>C (p.Asp168His),Pathogenic/Likely pathogenic,168,D,H,1,1,Pathogenic,Pathogenic,True
+2751116,LDLR,NM_000527.5(LDLR):c.1561G>T (p.Ala521Ser),Likely pathogenic,521,A,S,1,1,Pathogenic,Pathogenic,True
+92750,PAH,NM_000277.3(PAH):c.890G>A (p.Arg297His),Pathogenic,297,R,H,1,1,Pathogenic,Pathogenic,True
+15311,HBB,NM_000518.5(HBB):c.273G>C (p.Glu91Asp),Pathogenic,91,E,D,1,1,Pathogenic,Pathogenic,True
+406568,TP53,NM_000546.6(TP53):c.843C>A (p.Asp281Glu),Pathogenic/Likely pathogenic,281,D,E,1,0,Benign,Pathogenic,False
+376656,TP53,NM_000546.6(TP53):c.817C>A (p.Arg273Ser),Pathogenic,273,R,S,1,1,Pathogenic,Pathogenic,True
+251273,LDLR,NM_000527.5(LDLR):c.517T>G (p.Cys173Gly),Likely pathogenic,173,C,G,1,1,Pathogenic,Pathogenic,True
+1708959,BRCA1,NM_007294.4(BRCA1):c.3728G>C (p.Arg1243Thr),Likely benign,1243,R,T,0,0,Benign,Benign,True
+37636,BRCA1,NM_007294.4(BRCA1):c.5096G>A (p.Arg1699Gln),Pathogenic,1699,R,Q,1,1,Pathogenic,Pathogenic,True
+3537746,LDLR,NM_000527.5(LDLR):c.1108A>T (p.Asn370Tyr),Likely pathogenic,370,N,Y,1,1,Pathogenic,Pathogenic,True
+54638,BRCA1,NM_007294.4(BRCA1):c.2675T>C (p.Leu892Ser),Likely benign,892,L,S,0,0,Benign,Benign,True
+962629,TP53,NM_000546.6(TP53):c.626G>A (p.Arg209Lys),Likely benign,209,R,K,0,1,Pathogenic,Benign,False
+252231,LDLR,NM_000527.5(LDLR):c.2132G>T (p.Cys711Phe),Likely pathogenic,711,C,F,1,1,Pathogenic,Pathogenic,True
+3148383,TP53,NM_000546.6(TP53):c.470_471delinsGT (p.Val157Gly),Likely pathogenic,157,V,G,1,1,Pathogenic,Pathogenic,True
+37561,BRCA1,NM_007294.4(BRCA1):c.4036G>A (p.Glu1346Lys),Benign/Likely benign,1346,E,K,0,0,Benign,Benign,True
+102832,PAH,NM_000277.3(PAH):c.782G>C (p.Arg261Pro),Pathogenic,261,R,P,1,1,Pathogenic,Pathogenic,True
+37473,BRCA1,NM_007294.4(BRCA1):c.2477C>A (p.Thr826Lys),Benign,826,T,K,0,0,Benign,Benign,True
+102804,PAH,NM_000277.3(PAH):c.722G>A (p.Arg241His),Pathogenic,241,R,H,1,1,Pathogenic,Pathogenic,True
+53796,CFTR,NM_000492.4(CFTR):c.3730G>A (p.Gly1244Arg),Pathogenic,1244,G,R,1,1,Pathogenic,Pathogenic,True
+54258,BRCA1,NM_007294.4(BRCA1):c.1456T>C (p.Phe486Leu),Benign,486,F,L,0,0,Benign,Benign,True
+376668,TP53,NM_000546.6(TP53):c.517G>T (p.Val173Leu),Pathogenic/Likely pathogenic,173,V,L,1,1,Pathogenic,Pathogenic,True
+820717,BRCA1,NM_007294.4(BRCA1):c.20G>T (p.Arg7Leu),Likely benign,7,R,L,0,0,Benign,Benign,True
+53621,CFTR,NM_000492.4(CFTR):c.2T>A (p.Met1Lys),Pathogenic,1,M,K,1,1,Pathogenic,Pathogenic,True
+1705273,LDLR,NM_000527.5(LDLR):c.1298A>T (p.Asp433Val),Likely pathogenic,433,D,V,1,1,Pathogenic,Pathogenic,True
+53707,CFTR,NM_000492.4(CFTR):c.3292T>C (p.Trp1098Arg),Pathogenic,1098,W,R,1,1,Pathogenic,Pathogenic,True
+226386,LDLR,NM_000527.5(LDLR):c.2140G>C (p.Glu714Gln),Likely pathogenic,714,E,Q,1,1,Pathogenic,Pathogenic,True
+102648,PAH,NM_000277.3(PAH):c.305T>C (p.Ile102Thr),Pathogenic/Likely pathogenic,102,I,T,1,1,Pathogenic,Pathogenic,True
+232047,BRCA1,NM_007294.4(BRCA1):c.5200T>A (p.Phe1734Ile),Likely pathogenic,1734,F,I,1,1,Pathogenic,Pathogenic,True
+1693245,PAH,NM_000277.3(PAH):c.1244A>T (p.Asp415Val),Pathogenic,415,D,V,1,1,Pathogenic,Pathogenic,True
+4876134,BRCA1,NM_007294.4(BRCA1):c.661G>A (p.Ala221Thr),Likely benign,221,A,T,0,0,Benign,Benign,True
+102805,PAH,NM_000277.3(PAH):c.722G>T (p.Arg241Leu),Pathogenic,241,R,L,1,1,Pathogenic,Pathogenic,True
+7196,CFTR,NM_000492.4(CFTR):c.1666A>G (p.Ile556Val),Benign/Likely benign,556,I,V,0,0,Benign,Benign,True
+251580,LDLR,NM_000527.5(LDLR):c.974G>A (p.Cys325Tyr),Likely pathogenic,325,C,Y,1,1,Pathogenic,Pathogenic,True
+102824,PAH,NM_000277.3(PAH):c.755G>A (p.Arg252Gln),Pathogenic,252,R,Q,1,1,Pathogenic,Pathogenic,True
+376655,TP53,NM_000546.6(TP53):c.818G>T (p.Arg273Leu),Pathogenic,273,R,L,1,1,Pathogenic,Pathogenic,True
+231165,TP53,NM_000546.6(TP53):c.587G>C (p.Arg196Pro),Pathogenic/Likely pathogenic,196,R,P,1,1,Pathogenic,Pathogenic,True
+869008,BRCA1,NM_007294.4(BRCA1):c.5524G>C (p.Val1842Leu),Likely benign,1842,V,L,0,1,Pathogenic,Benign,False
+7153,CFTR,NM_000492.4(CFTR):c.933C>G (p.Phe311Leu),Pathogenic,311,F,L,1,1,Pathogenic,Pathogenic,True
+54166,BRCA1,NM_007294.4(BRCA1):c.122A>G (p.His41Arg),Pathogenic,41,H,R,1,1,Pathogenic,Pathogenic,True
+1436912,LDLR,NM_000527.5(LDLR):c.44T>G (p.Leu15Arg),Likely pathogenic,15,L,R,1,0,Benign,Pathogenic,False
+251883,LDLR,NM_000527.5(LDLR):c.1520A>C (p.Lys507Thr),Likely pathogenic,507,K,T,1,1,Pathogenic,Pathogenic,True
+15239,HBB,NM_000518.5(HBB):c.82G>T (p.Ala28Ser),Pathogenic,28,A,S,1,1,Pathogenic,Pathogenic,True
+827132,TP53,NM_000546.6(TP53):c.757A>G (p.Thr253Ala),Pathogenic/Likely pathogenic,253,T,A,1,1,Pathogenic,Pathogenic,True
+558091,PAH,NM_000277.3(PAH):c.1247C>A (p.Pro416Gln),Likely pathogenic,416,P,Q,1,1,Pathogenic,Pathogenic,True
+142828,TP53,NM_000546.6(TP53):c.1010G>T (p.Arg337Leu),Likely pathogenic,337,R,L,1,0,Benign,Pathogenic,False
+375829,LDLR,NM_000527.5(LDLR):c.2056C>G (p.Gln686Glu),Likely pathogenic,686,Q,E,1,1,Pathogenic,Pathogenic,True
+1766672,TP53,NM_000546.6(TP53):c.935C>A (p.Thr312Asn),Likely benign,312,T,N,0,0,Benign,Benign,True
+53909,CFTR,NM_000492.4(CFTR):c.416A>G (p.His139Arg),Pathogenic,139,H,R,1,1,Pathogenic,Pathogenic,True
+872834,PAH,NM_000277.3(PAH):c.442G>C (p.Gly148Arg),Likely pathogenic,148,G,R,1,1,Pathogenic,Pathogenic,True
+868725,BRCA1,NM_007294.4(BRCA1):c.46A>G (p.Asn16Asp),Likely benign,16,N,D,0,0,Benign,Benign,True
+55573,BRCA1,NM_007294.4(BRCA1):c.5425G>T (p.Val1809Phe),Likely pathogenic,1809,V,F,1,1,Pathogenic,Pathogenic,True
+1764981,LDLR,NM_000527.5(LDLR):c.888C>G (p.Cys296Trp),Likely pathogenic,296,C,W,1,1,Pathogenic,Pathogenic,True
+4856587,BRCA1,NM_007294.4(BRCA1):c.3019T>C (p.Ser1007Pro),Likely benign,1007,S,P,0,0,Benign,Benign,True
+226346,LDLR,NM_000527.5(LDLR):c.1073G>A (p.Cys358Tyr),Pathogenic/Likely pathogenic,358,C,Y,1,1,Pathogenic,Pathogenic,True
+4856531,BRCA1,NM_007294.4(BRCA1):c.1138C>A (p.Gln380Lys),Likely benign,380,Q,K,0,0,Benign,Benign,True
+252194,LDLR,NM_000527.5(LDLR):c.2053C>T (p.Pro685Ser),Pathogenic/Likely pathogenic,685,P,S,1,1,Pathogenic,Pathogenic,True
+2687847,BRCA1,NM_007294.4(BRCA1):c.4321G>A (p.Asp1441Asn),Likely pathogenic,1441,D,N,1,0,Benign,Pathogenic,False
+1810388,PAH,NM_000277.3(PAH):c.1023G>C (p.Lys341Asn),Likely pathogenic,341,K,N,1,1,Pathogenic,Pathogenic,True
+4525835,HBB,NM_000518.5(HBB):c.9T>G (p.His3Gln),Likely benign,3,H,Q,0,0,Benign,Benign,True
+251122,LDLR,NM_000527.5(LDLR):c.299A>G (p.Asp100Gly),Likely pathogenic,100,D,G,1,1,Pathogenic,Pathogenic,True
+821868,BRCA1,NM_007294.4(BRCA1):c.282G>T (p.Gln94His),Benign/Likely benign,94,Q,H,0,0,Benign,Benign,True
+805817,PAH,NM_000277.3(PAH):c.292T>G (p.Leu98Val),Likely pathogenic,98,L,V,1,1,Pathogenic,Pathogenic,True
+1732593,BRCA1,NM_007294.4(BRCA1):c.3550G>A (p.Gly1184Arg),Likely benign,1184,G,R,0,0,Benign,Benign,True
+2713545,LDLR,NM_000527.5(LDLR):c.1599G>T (p.Trp533Cys),Likely pathogenic,533,W,C,1,1,Pathogenic,Pathogenic,True
+376630,TP53,NM_000546.6(TP53):c.332T>C (p.Leu111Pro),Pathogenic,111,L,P,1,1,Pathogenic,Pathogenic,True
+251517,LDLR,NM_000527.5(LDLR):c.910G>T (p.Asp304Tyr),Likely pathogenic,304,D,Y,1,1,Pathogenic,Pathogenic,True
+251812,LDLR,NM_000527.5(LDLR):c.1361C>A (p.Thr454Asn),Likely pathogenic,454,T,N,1,1,Pathogenic,Pathogenic,True
+252220,LDLR,NM_000527.5(LDLR):c.2099A>G (p.Asp700Gly),Likely pathogenic,700,D,G,1,1,Pathogenic,Pathogenic,True
+54228,BRCA1,NM_007294.4(BRCA1):c.1383T>A (p.Phe461Leu),Benign,461,F,L,0,0,Benign,Benign,True
+4756387,LDLR,NM_000527.5(LDLR):c.1258A>G (p.Thr420Ala),Likely benign,420,T,A,0,1,Pathogenic,Benign,False
+251191,LDLR,NM_000527.5(LDLR):c.380T>A (p.Val127Asp),Pathogenic/Likely pathogenic,127,V,D,1,1,Pathogenic,Pathogenic,True
+251526,LDLR,NM_000527.5(LDLR):c.919G>C (p.Asp307His),Likely pathogenic,307,D,H,1,1,Pathogenic,Pathogenic,True
+180402,LDLR,NM_000527.5(LDLR):c.1468T>C (p.Trp490Arg),Pathogenic/Likely pathogenic,490,W,R,1,1,Pathogenic,Pathogenic,True
+54392,BRCA1,NM_007294.4(BRCA1):c.1901C>G (p.Pro634Arg),Likely benign,634,P,R,0,0,Benign,Benign,True
+433706,BRCA1,NM_007294.4(BRCA1):c.3374C>A (p.Ser1125Tyr),Likely benign,1125,S,Y,0,0,Benign,Benign,True
+3894793,LDLR,NM_000527.5(LDLR):c.1980G>T (p.Gln660His),Likely pathogenic,660,Q,H,1,1,Pathogenic,Pathogenic,True
+4854625,CFTR,NM_000492.4(CFTR):c.44T>G (p.Leu15Arg),Likely pathogenic,15,L,R,1,1,Pathogenic,Pathogenic,True
+1798997,LDLR,NM_000527.5(LDLR):c.302A>C (p.Glu101Ala),Pathogenic/Likely pathogenic,101,E,A,1,1,Pathogenic,Pathogenic,True
+3706408,LDLR,NM_000527.5(LDLR):c.524A>G (p.Asp175Gly),Pathogenic,175,D,G,1,1,Pathogenic,Pathogenic,True
+635,PAH,NM_000277.3(PAH):c.1220C>T (p.Pro407Leu),Likely pathogenic,407,P,L,1,1,Pathogenic,Pathogenic,True
+55481,BRCA1,NM_007294.4(BRCA1):c.5252G>A (p.Arg1751Gln),Benign,1751,R,Q,0,1,Pathogenic,Benign,False
+251215,LDLR,NM_000527.5(LDLR):c.419A>G (p.Glu140Gly),Pathogenic/Likely pathogenic,140,E,G,1,1,Pathogenic,Pathogenic,True
+602,PAH,NM_000277.3(PAH):c.776C>T (p.Ala259Val),Pathogenic,259,A,V,1,1,Pathogenic,Pathogenic,True
+583,PAH,NM_000277.3(PAH):c.261C>A (p.Ser87Arg),Pathogenic,87,S,R,1,1,Pathogenic,Pathogenic,True
+824466,BRCA1,NM_007294.4(BRCA1):c.3995G>A (p.Gly1332Glu),Likely benign,1332,G,E,0,0,Benign,Benign,True
+2829441,PAH,NM_000277.3(PAH):c.250G>A (p.Asp84Asn),Likely pathogenic,84,D,N,1,1,Pathogenic,Pathogenic,True
+3904754,BRCA1,NM_007294.4(BRCA1):c.2082C>G (p.Ser694Arg),Likely benign,694,S,R,0,0,Benign,Benign,True
+251388,LDLR,NM_000527.5(LDLR):c.680A>T (p.Asp227Val),Pathogenic/Likely pathogenic,227,D,V,1,1,Pathogenic,Pathogenic,True
+231852,BRCA1,NM_007294.4(BRCA1):c.1159T>A (p.Ser387Thr),Benign,387,S,T,0,0,Benign,Benign,True
+53590,CFTR,NM_000492.4(CFTR):c.2908G>C (p.Gly970Arg),Pathogenic,970,G,R,1,1,Pathogenic,Pathogenic,True
+251091,LDLR,NM_000527.5(LDLR):c.244T>G (p.Cys82Gly),Pathogenic/Likely pathogenic,82,C,G,1,1,Pathogenic,Pathogenic,True
+1779868,LDLR,NM_000527.5(LDLR):c.1775G>T (p.Gly592Val),Likely pathogenic,592,G,V,1,1,Pathogenic,Pathogenic,True
+4856558,BRCA1,NM_007294.4(BRCA1):c.864C>A (p.Ser288Arg),Likely benign,288,S,R,0,0,Benign,Benign,True
+102626,PAH,NM_000277.3(PAH):c.1A>T (p.Met1Leu),Pathogenic,1,M,L,1,1,Pathogenic,Pathogenic,True
+135948,TP53,NM_000546.6(TP53):c.145G>C (p.Asp49His),Benign,49,D,H,0,0,Benign,Benign,True
+369853,LDLR,NM_000527.5(LDLR):c.1255T>G (p.Tyr419Asp),Pathogenic/Likely pathogenic,419,Y,D,1,1,Pathogenic,Pathogenic,True
+55466,BRCA1,NM_007294.4(BRCA1):c.5216A>T (p.Asp1739Val),Pathogenic/Likely pathogenic,1739,D,V,1,1,Pathogenic,Pathogenic,True
+251092,LDLR,NM_000527.5(LDLR):c.245G>A (p.Cys82Tyr),Pathogenic/Likely pathogenic,82,C,Y,1,1,Pathogenic,Pathogenic,True
+251278,LDLR,NM_000527.5(LDLR):c.523G>T (p.Asp175Tyr),Likely pathogenic,175,D,Y,1,1,Pathogenic,Pathogenic,True
+3896748,LDLR,NM_000527.5(LDLR):c.1829C>A (p.Ser610Tyr),Likely pathogenic,610,S,Y,1,1,Pathogenic,Pathogenic,True
+1741120,TP53,NM_000546.6(TP53):c.1177G>T (p.Asp393Tyr),Likely benign,393,D,Y,0,0,Benign,Benign,True
+4685642,HBB,NM_000518.5(HBB):c.233A>T (p.His78Leu),Likely benign,78,H,L,0,1,Pathogenic,Benign,False
+2682170,PAH,NM_000277.3(PAH):c.971T>A (p.Ile324Asn),Pathogenic,324,I,N,1,1,Pathogenic,Pathogenic,True
+478852,HBB,NM_000518.4(HBB):c.98T>A (p.Leu33Gln),Likely pathogenic,33,L,Q,1,1,Pathogenic,Pathogenic,True
+824998,TP53,NM_000546.6(TP53):c.455C>G (p.Pro152Arg),Pathogenic/Likely pathogenic,152,P,R,1,1,Pathogenic,Pathogenic,True
+53722,CFTR,NM_000492.4(CFTR):c.3353C>T (p.Ser1118Phe),Pathogenic,1118,S,F,1,1,Pathogenic,Pathogenic,True
+161284,LDLR,NM_000527.5(LDLR):c.1444G>A (p.Asp482Asn),Pathogenic,482,D,N,1,1,Pathogenic,Pathogenic,True
+186762,TP53,NM_000546.6(TP53):c.1135C>A (p.Arg379Ser),Likely benign,379,R,S,0,1,Pathogenic,Benign,False
+35823,CFTR,NM_000492.4(CFTR):c.1400T>C (p.Leu467Pro),Pathogenic,467,L,P,1,1,Pathogenic,Pathogenic,True
+251485,LDLR,NM_000527.5(LDLR):c.850T>G (p.Cys284Gly),Likely pathogenic,284,C,G,1,1,Pathogenic,Pathogenic,True
+102486,PAH,NM_000277.3(PAH):c.1036G>C (p.Gly346Arg),Likely pathogenic,346,G,R,1,1,Pathogenic,Pathogenic,True
+15322,HBB,NM_000518.5(HBB):c.437A>G (p.Tyr146Cys),Pathogenic,146,Y,C,1,1,Pathogenic,Pathogenic,True
+3460327,TP53,NM_000546.6(TP53):c.1029G>T (p.Glu343Asp),Benign,343,E,D,0,0,Benign,Benign,True
+251346,LDLR,NM_000527.5(LDLR):c.647G>A (p.Cys216Tyr),Pathogenic/Likely pathogenic,216,C,Y,1,1,Pathogenic,Pathogenic,True
+54562,BRCA1,NM_007294.4(BRCA1):c.2413T>C (p.Cys805Arg),Likely benign,805,C,R,0,0,Benign,Benign,True
+55383,BRCA1,NM_007294.4(BRCA1):c.5075A>T (p.Asp1692Val),Likely pathogenic,1692,D,V,1,1,Pathogenic,Pathogenic,True
+4857330,PAH,NM_000277.3(PAH):c.749C>T (p.Ser250Phe),Likely pathogenic,250,S,F,1,1,Pathogenic,Pathogenic,True
+102666,PAH,NM_000277.3(PAH):c.428A>G (p.Asp143Gly),Pathogenic/Likely pathogenic,143,D,G,1,1,Pathogenic,Pathogenic,True
+845528,BRCA1,NM_007294.4(BRCA1):c.5213G>T (p.Gly1738Val),Pathogenic,1738,G,V,1,1,Pathogenic,Pathogenic,True
+102697,PAH,NM_000277.3(PAH):c.482T>C (p.Phe161Ser),Pathogenic,161,F,S,1,1,Pathogenic,Pathogenic,True
+15434,HBB,NM_000518.5(HBB):c.2T>G (p.Met1Arg),Pathogenic,1,M,R,1,1,Pathogenic,Pathogenic,True
+4856501,BRCA1,NM_007294.4(BRCA1):c.2689C>G (p.Pro897Ala),Likely benign,897,P,A,0,0,Benign,Benign,True
+867299,BRCA1,NM_007294.4(BRCA1):c.5271C>G (p.Asp1757Glu),Likely benign,1757,D,E,0,1,Pathogenic,Benign,False
+200921,LDLR,NM_000527.5(LDLR):c.1747C>T (p.His583Tyr),Pathogenic,583,H,Y,1,1,Pathogenic,Pathogenic,True
+252054,LDLR,NM_000527.5(LDLR):c.1829C>G (p.Ser610Cys),Likely pathogenic,610,S,C,1,1,Pathogenic,Pathogenic,True
+868763,BRCA1,NM_007294.4(BRCA1):c.5163G>T (p.Gln1721His),Likely benign,1721,Q,H,0,0,Benign,Benign,True
+1384858,PAH,NM_000277.3(PAH):c.511G>C (p.Gly171Arg),Pathogenic,171,G,R,1,1,Pathogenic,Pathogenic,True
+4073468,CFTR,NM_000492.4(CFTR):c.1412T>G (p.Ile471Ser),Likely pathogenic,471,I,S,1,1,Pathogenic,Pathogenic,True
+182946,TP53,NM_000546.6(TP53):c.245C>T (p.Pro82Leu),Likely benign,82,P,L,0,0,Benign,Benign,True
+458545,TP53,NM_000546.6(TP53):c.476C>T (p.Ala159Val),Pathogenic/Likely pathogenic,159,A,V,1,1,Pathogenic,Pathogenic,True
+251106,LDLR,NM_000527.5(LDLR):c.268G>T (p.Asp90Tyr),Likely pathogenic,90,D,Y,1,1,Pathogenic,Pathogenic,True
+226332,LDLR,NM_000527.5(LDLR):c.664T>C (p.Cys222Arg),Likely pathogenic,222,C,R,1,1,Pathogenic,Pathogenic,True
+182968,TP53,NM_000546.6(TP53):c.842A>T (p.Asp281Val),Pathogenic/Likely pathogenic,281,D,V,1,1,Pathogenic,Pathogenic,True
+15183,HBB,NM_000518.4(HBB):c.86T>C (p.Leu29Pro),Pathogenic,29,L,P,1,1,Pathogenic,Pathogenic,True
+1321222,LDLR,NM_000527.5(LDLR):c.378C>A (p.Phe126Leu),Likely pathogenic,126,F,L,1,1,Pathogenic,Pathogenic,True
+932252,PAH,NM_000277.3(PAH):c.755G>C (p.Arg252Pro),Likely pathogenic,252,R,P,1,1,Pathogenic,Pathogenic,True
+226371,LDLR,NM_000527.5(LDLR):c.1735G>T (p.Asp579Tyr),Pathogenic/Likely pathogenic,579,D,Y,1,1,Pathogenic,Pathogenic,True
+552907,PAH,NM_000277.3(PAH):c.1218A>G (p.Ile406Met),Likely pathogenic,406,I,M,1,1,Pathogenic,Pathogenic,True
+1497238,LDLR,NM_000527.5(LDLR):c.2087G>T (p.Cys696Phe),Likely pathogenic,696,C,F,1,1,Pathogenic,Pathogenic,True
+2921174,LDLR,NM_000527.5(LDLR):c.1201C>T (p.Leu401Phe),Likely pathogenic,401,L,F,1,1,Pathogenic,Pathogenic,True
+662455,BRCA1,NM_007294.4(BRCA1):c.5360G>A (p.Cys1787Tyr),Likely pathogenic,1787,C,Y,1,1,Pathogenic,Pathogenic,True
+618964,CFTR,NM_000492.4(CFTR):c.3107C>T (p.Thr1036Ile),Pathogenic/Likely pathogenic,1036,T,I,1,1,Pathogenic,Pathogenic,True
+3972448,TP53,NM_000546.6(TP53):c.247G>C (p.Ala83Pro),Likely benign,83,A,P,0,0,Benign,Benign,True
+251857,LDLR,NM_000527.5(LDLR):c.1463T>C (p.Ile488Thr),Pathogenic/Likely pathogenic,488,I,T,1,1,Pathogenic,Pathogenic,True
+102529,PAH,NM_000277.3(PAH):c.1117G>A (p.Ala373Thr),Likely pathogenic,373,A,T,1,1,Pathogenic,Pathogenic,True
+7143,CFTR,NM_000492.4(CFTR):c.254G>A (p.Gly85Glu),Pathogenic,85,G,E,1,1,Pathogenic,Pathogenic,True
+37633,BRCA1,NM_007294.4(BRCA1):c.5074G>C (p.Asp1692His),Pathogenic,1692,D,H,1,1,Pathogenic,Pathogenic,True
+226339,LDLR,NM_000527.5(LDLR):c.938G>A (p.Cys313Tyr),Pathogenic/Likely pathogenic,313,C,Y,1,1,Pathogenic,Pathogenic,True
+4856565,BRCA1,NM_007294.4(BRCA1):c.2755C>A (p.Pro919Thr),Likely benign,919,P,T,0,0,Benign,Benign,True
+4856579,BRCA1,NM_007294.4(BRCA1):c.1268C>G (p.Ser423Cys),Likely benign,423,S,C,0,0,Benign,Benign,True
+102903,PAH,NM_000277.3(PAH):c.938C>T (p.Ala313Val),Pathogenic,313,A,V,1,1,Pathogenic,Pathogenic,True
+2450758,TP53,NM_000546.6(TP53):c.972T>A (p.Asp324Glu),Likely benign,324,D,E,0,0,Benign,Benign,True
+251223,LDLR,NM_000527.5(LDLR):c.440C>T (p.Thr147Ile),Likely pathogenic,147,T,I,1,0,Benign,Pathogenic,False
+251772,LDLR,NM_000527.5(LDLR):c.1297G>T (p.Asp433Tyr),Likely pathogenic,433,D,Y,1,1,Pathogenic,Pathogenic,True
+245697,BRCA1,NM_007294.4(BRCA1):c.4484G>C (p.Arg1495Thr),Pathogenic,1495,R,T,1,0,Benign,Pathogenic,False
+231008,TP53,NM_000546.6(TP53):c.949C>A (p.Gln317Lys),Benign,317,Q,K,0,0,Benign,Benign,True
+864986,BRCA1,NM_007294.4(BRCA1):c.5537A>G (p.Gln1846Arg),Likely benign,1846,Q,R,0,0,Benign,Benign,True
+102738,PAH,NM_000277.3(PAH):c.563G>A (p.Gly188Asp),Likely pathogenic,188,G,D,1,1,Pathogenic,Pathogenic,True
+446506,PAH,NM_000277.3(PAH):c.934G>T (p.Gly312Cys),Likely pathogenic,312,G,C,1,1,Pathogenic,Pathogenic,True
+12375,TP53,NM_000546.6(TP53):c.1031T>C (p.Leu344Pro),Likely pathogenic,344,L,P,1,1,Pathogenic,Pathogenic,True
+53266,CFTR,NM_000492.4(CFTR):c.148T>C (p.Ser50Pro),Pathogenic/Likely pathogenic,50,S,P,1,1,Pathogenic,Pathogenic,True
+1244250,CFTR,NM_000492.4(CFTR):c.2917C>T (p.Leu973Phe),Pathogenic,973,L,F,1,1,Pathogenic,Pathogenic,True
+251973,LDLR,NM_000527.5(LDLR):c.1690A>G (p.Asn564Asp),Pathogenic/Likely pathogenic,564,N,D,1,1,Pathogenic,Pathogenic,True
+252173,LDLR,NM_000527.5(LDLR):c.2023G>A (p.Gly675Ser),Likely pathogenic,675,G,S,1,1,Pathogenic,Pathogenic,True
+216077,TP53,NM_000546.6(TP53):c.584T>C (p.Ile195Thr),Pathogenic,195,I,T,1,1,Pathogenic,Pathogenic,True
+872838,PAH,NM_000277.3(PAH):c.185T>C (p.Leu62Pro),Likely pathogenic,62,L,P,1,1,Pathogenic,Pathogenic,True
+1518844,TP53,NM_000546.6(TP53):c.751A>T (p.Ile251Phe),Pathogenic/Likely pathogenic,251,I,F,1,1,Pathogenic,Pathogenic,True
+12364,TP53,NM_000546.6(TP53):c.844C>T (p.Arg282Trp),Pathogenic/Likely pathogenic,282,R,W,1,1,Pathogenic,Pathogenic,True
+15329,HBB,NM_000518.5(HBB):c.363A>C (p.Lys121Asn),Benign/Likely benign,121,K,N,0,1,Pathogenic,Benign,False
+1474520,LDLR,NM_000527.5(LDLR):c.610T>C (p.Cys204Arg),Pathogenic/Likely pathogenic,204,C,R,1,1,Pathogenic,Pathogenic,True
+251204,LDLR,NM_000527.5(LDLR):c.401G>T (p.Cys134Phe),Pathogenic/Likely pathogenic,134,C,F,1,1,Pathogenic,Pathogenic,True
+441431,BRCA1,NM_007294.4(BRCA1):c.5269G>T (p.Asp1757Tyr),Likely benign,1757,D,Y,0,1,Pathogenic,Benign,False
+4802605,LDLR,NM_000527.5(LDLR):c.1961T>G (p.Leu654Arg),Likely pathogenic,654,L,R,1,1,Pathogenic,Pathogenic,True
+231060,TP53,NM_000546.6(TP53):c.818G>C (p.Arg273Pro),Pathogenic/Likely pathogenic,273,R,P,1,1,Pathogenic,Pathogenic,True
+142714,TP53,NM_000546.6(TP53):c.711G>A (p.Met237Ile),Pathogenic,237,M,I,1,1,Pathogenic,Pathogenic,True
+3809677,TP53,NM_000546.6(TP53):c.215_216delinsGA (p.Pro72Arg),Benign,72,P,R,0,0,Benign,Benign,True
+7136,CFTR,NM_000492.4(CFTR):c.3909C>G (p.Asn1303Lys),Pathogenic,1303,N,K,1,1,Pathogenic,Pathogenic,True
+944625,PAH,NM_000277.3(PAH):c.510T>G (p.His170Gln),Pathogenic,170,H,Q,1,1,Pathogenic,Pathogenic,True
+7150,CFTR,NM_000492.4(CFTR):c.1558G>T (p.Val520Phe),Pathogenic,520,V,F,1,1,Pathogenic,Pathogenic,True
+4856577,BRCA1,NM_007294.4(BRCA1):c.2548A>G (p.Ser850Gly),Likely benign,850,S,G,0,0,Benign,Benign,True
+141597,TP53,NM_000546.6(TP53):c.107C>A (p.Pro36Gln),Benign,36,P,Q,0,0,Benign,Benign,True
+142320,TP53,NM_000546.6(TP53):c.542G>A (p.Arg181His),Pathogenic/Likely pathogenic,181,R,H,1,1,Pathogenic,Pathogenic,True
+251213,LDLR,NM_000527.5(LDLR):c.418G>A (p.Glu140Lys),Pathogenic,140,E,K,1,1,Pathogenic,Pathogenic,True
+183135,LDLR,NM_000527.5(LDLR):c.2398G>A (p.Val800Ile),Benign/Likely benign,800,V,I,0,1,Pathogenic,Benign,False
+3336637,CFTR,NM_000492.4(CFTR):c.1447A>G (p.Lys483Glu),Likely pathogenic,483,K,E,1,1,Pathogenic,Pathogenic,True
+867597,BRCA1,NM_007294.4(BRCA1):c.5492C>T (p.Pro1831Leu),Likely benign,1831,P,L,0,0,Benign,Benign,True
+102528,PAH,NM_000277.3(PAH):c.1114A>T (p.Thr372Ser),Likely pathogenic,372,T,S,1,1,Pathogenic,Pathogenic,True
+1765377,TP53,NM_000546.6(TP53):c.899C>T (p.Pro300Leu),Likely benign,300,P,L,0,1,Pathogenic,Benign,False
+54020,CFTR,NM_000492.4(CFTR):c.597T>G (p.His199Gln),Likely pathogenic,199,H,Q,1,1,Pathogenic,Pathogenic,True
+53423,CFTR,NM_000492.4(CFTR):c.1A>G (p.Met1Val),Pathogenic,1,M,V,1,1,Pathogenic,Pathogenic,True
+54930,BRCA1,NM_007294.4(BRCA1):c.3600G>C (p.Gln1200His),Benign/Likely benign,1200,Q,H,0,0,Benign,Benign,True
+15365,HBB,NM_000518.5(HBB):c.431A>C (p.His144Pro),Pathogenic,144,H,P,1,1,Pathogenic,Pathogenic,True
+462571,BRCA1,NM_007294.4(BRCA1):c.191G>C (p.Cys64Ser),Pathogenic/Likely pathogenic,64,C,S,1,1,Pathogenic,Pathogenic,True
+55550,BRCA1,NM_007294.4(BRCA1):c.5362G>T (p.Gly1788Cys),Likely pathogenic,1788,G,C,1,1,Pathogenic,Pathogenic,True
+252043,LDLR,NM_000527.5(LDLR):c.1809G>C (p.Lys603Asn),Likely benign,603,K,N,0,1,Pathogenic,Benign,False
+1453298,PAH,NM_000277.3(PAH):c.615G>C (p.Glu205Asp),Pathogenic/Likely pathogenic,205,E,D,1,1,Pathogenic,Pathogenic,True
+53976,CFTR,NM_000492.4(CFTR):c.494T>C (p.Leu165Ser),Pathogenic,165,L,S,1,1,Pathogenic,Pathogenic,True
+224427,BRCA1,NM_007294.4(BRCA1):c.192T>G (p.Cys64Trp),Pathogenic/Likely pathogenic,64,C,W,1,1,Pathogenic,Pathogenic,True
+53701,CFTR,NM_000492.4(CFTR):c.3278T>C (p.Leu1093Pro),Likely pathogenic,1093,L,P,1,1,Pathogenic,Pathogenic,True
+867631,BRCA1,NM_007294.4(BRCA1):c.5090G>T (p.Cys1697Phe),Likely pathogenic,1697,C,F,1,1,Pathogenic,Pathogenic,True
+1327567,PAH,NM_000277.3(PAH):c.925G>A (p.Ala309Thr),Likely pathogenic,309,A,T,1,1,Pathogenic,Pathogenic,True
+92738,PAH,NM_000277.3(PAH):c.204A>T (p.Arg68Ser),Pathogenic,68,R,S,1,1,Pathogenic,Pathogenic,True
+634773,TP53,NM_000546.6(TP53):c.396G>T (p.Lys132Asn),Pathogenic/Likely pathogenic,132,K,N,1,1,Pathogenic,Pathogenic,True
+141547,TP53,NM_000546.6(TP53):c.221C>T (p.Ala74Val),Likely benign,74,A,V,0,0,Benign,Benign,True
+91656,BRCA1,NM_007294.4(BRCA1):c.5516T>C (p.Leu1839Ser),Pathogenic,1839,L,S,1,1,Pathogenic,Pathogenic,True
+3636898,LDLR,NM_000527.5(LDLR):c.280G>C (p.Asp94His),Likely pathogenic,94,D,H,1,1,Pathogenic,Pathogenic,True
+102786,PAH,NM_000277.3(PAH):c.691T>C (p.Ser231Pro),Pathogenic,231,S,P,1,1,Pathogenic,Pathogenic,True
+251582,LDLR,NM_000527.5(LDLR):c.977C>T (p.Ser326Phe),Likely pathogenic,326,S,F,1,1,Pathogenic,Pathogenic,True
+251228,LDLR,NM_000527.5(LDLR):c.444T>G (p.Cys148Trp),Likely pathogenic,148,C,W,1,1,Pathogenic,Pathogenic,True
+15193,HBB,NM_000518.4(HBB):c.248A>T (p.Lys83Met),Pathogenic,83,K,M,1,1,Pathogenic,Pathogenic,True
+92743,PAH,NM_000277.3(PAH):c.500A>T (p.Asn167Ile),Likely pathogenic,167,N,I,1,1,Pathogenic,Pathogenic,True
+102544,PAH,NM_000277.3(PAH):c.1175T>C (p.Phe392Ser),Likely pathogenic,392,F,S,1,1,Pathogenic,Pathogenic,True
+102770,PAH,NM_000277.3(PAH):c.649T>C (p.Cys217Arg),Likely pathogenic,217,C,R,1,1,Pathogenic,Pathogenic,True
+252890,BRCA1,NM_007294.4(BRCA1):c.77T>A (p.Ile26Asn),Pathogenic,26,I,N,1,0,Benign,Pathogenic,False
+15249,HBB,NM_000518.4(HBB):c.109C>A (p.Pro37Thr),Pathogenic,37,P,T,1,1,Pathogenic,Pathogenic,True
+102547,PAH,NM_000277.3(PAH):c.1183G>C (p.Ala395Pro),Pathogenic,395,A,P,1,1,Pathogenic,Pathogenic,True
+37452,BRCA1,NM_007294.4(BRCA1):c.2155A>G (p.Lys719Glu),Benign,719,K,E,0,0,Benign,Benign,True
+4850741,LDLR,NM_000527.5(LDLR):c.1619C>T (p.Ala540Val),Likely pathogenic,540,A,V,1,1,Pathogenic,Pathogenic,True
+251311,LDLR,NM_000527.5(LDLR):c.591C>G (p.Cys197Trp),Pathogenic/Likely pathogenic,197,C,W,1,1,Pathogenic,Pathogenic,True
+3732,LDLR,NM_000527.5(LDLR):c.1297G>C (p.Asp433His),Pathogenic/Likely pathogenic,433,D,H,1,1,Pathogenic,Pathogenic,True
+3903873,BRCA1,NM_007294.4(BRCA1):c.1316C>T (p.Ala439Val),Likely benign,439,A,V,0,0,Benign,Benign,True
+556296,PAH,NM_000277.3(PAH):c.800A>G (p.Gln267Arg),Pathogenic,267,Q,R,1,1,Pathogenic,Pathogenic,True
+4059225,PAH,NM_000277.3(PAH):c.851G>A (p.Cys284Tyr),Likely pathogenic,284,C,Y,1,1,Pathogenic,Pathogenic,True
+252049,LDLR,NM_000527.5(LDLR):c.1822C>T (p.Pro608Ser),Pathogenic/Likely pathogenic,608,P,S,1,1,Pathogenic,Pathogenic,True
+53167,CFTR,NM_000492.4(CFTR):c.1021T>C (p.Ser341Pro),Pathogenic,341,S,P,1,1,Pathogenic,Pathogenic,True
+801086,BRCA1,NM_007294.4(BRCA1):c.5257A>G (p.Arg1753Gly),Likely pathogenic,1753,R,G,1,1,Pathogenic,Pathogenic,True
+4856564,BRCA1,NM_007294.4(BRCA1):c.3665A>C (p.Glu1222Ala),Likely benign,1222,E,A,0,0,Benign,Benign,True
+53678,CFTR,NM_000492.4(CFTR):c.3197G>T (p.Arg1066Leu),Pathogenic/Likely pathogenic,1066,R,L,1,1,Pathogenic,Pathogenic,True
+1284721,LDLR,NM_000527.5(LDLR):c.2414G>A (p.Gly805Glu),Likely pathogenic,805,G,E,1,1,Pathogenic,Pathogenic,True
+15526,HBB,NM_000518.5(HBB):c.347C>A (p.Ala116Asp),Pathogenic,116,A,D,1,1,Pathogenic,Pathogenic,True
+102657,PAH,NM_000277.3(PAH):c.365C>A (p.Pro122Gln),Pathogenic/Likely pathogenic,122,P,Q,1,1,Pathogenic,Pathogenic,True
+12374,TP53,NM_000546.6(TP53):c.524G>A (p.Arg175His),Pathogenic,175,R,H,1,1,Pathogenic,Pathogenic,True
+868102,BRCA1,NM_007294.4(BRCA1):c.5000A>C (p.Lys1667Thr),Likely benign,1667,K,T,0,0,Benign,Benign,True
+251864,LDLR,NM_000527.5(LDLR):c.1474G>C (p.Asp492His),Likely pathogenic,492,D,H,1,1,Pathogenic,Pathogenic,True
+54132,BRCA1,NM_007294.4(BRCA1):c.110C>G (p.Thr37Arg),Pathogenic/Likely pathogenic,37,T,R,1,1,Pathogenic,Pathogenic,True
+120278,PAH,NM_000277.3(PAH):c.547_548delinsTT (p.Glu183Leu),Likely pathogenic,183,E,L,1,1,Pathogenic,Pathogenic,True
+54935,BRCA1,NM_007294.4(BRCA1):c.3608G>A (p.Arg1203Gln),Benign,1203,R,Q,0,0,Benign,Benign,True
+37689,BRCA1,NM_007294.4(BRCA1):c.641A>G (p.Asp214Gly),Benign,214,D,G,0,1,Pathogenic,Benign,False
+868146,BRCA1,NM_007294.4(BRCA1):c.109A>G (p.Thr37Ala),Likely pathogenic,37,T,A,1,1,Pathogenic,Pathogenic,True
+4856588,BRCA1,NM_007294.4(BRCA1):c.1487G>C (p.Arg496Pro),Likely benign,496,R,P,0,0,Benign,Benign,True
+251946,LDLR,NM_000527.5(LDLR):c.1636G>C (p.Gly546Arg),Pathogenic/Likely pathogenic,546,G,R,1,1,Pathogenic,Pathogenic,True
+2036025,PAH,NM_000277.3(PAH):c.870T>A (p.His290Gln),Pathogenic,290,H,Q,1,1,Pathogenic,Pathogenic,True
+54247,BRCA1,NM_007294.4(BRCA1):c.140G>T (p.Cys47Phe),Pathogenic/Likely pathogenic,47,C,F,1,1,Pathogenic,Pathogenic,True
+127805,TP53,NM_000546.6(TP53):c.248C>T (p.Ala83Val),Benign/Likely benign,83,A,V,0,0,Benign,Benign,True
+1465203,PAH,NM_000277.3(PAH):c.467C>T (p.Ala156Val),Likely pathogenic,156,A,V,1,1,Pathogenic,Pathogenic,True
+1050740,BRCA1,NM_007294.4(BRCA1):c.1240G>T (p.Asp414Tyr),Likely benign,414,D,Y,0,0,Benign,Benign,True
+868387,BRCA1,NM_007294.4(BRCA1):c.4902G>T (p.Arg1634Ser),Benign,1634,R,S,0,0,Benign,Benign,True
+226345,LDLR,NM_000527.5(LDLR):c.1066G>T (p.Asp356Tyr),Pathogenic/Likely pathogenic,356,D,Y,1,1,Pathogenic,Pathogenic,True
+1794958,BRCA1,NM_007294.4(BRCA1):c.2703T>G (p.Phe901Leu),Likely benign,901,F,L,0,0,Benign,Benign,True
+54199,BRCA1,NM_007294.4(BRCA1):c.131G>A (p.Cys44Tyr),Pathogenic,44,C,Y,1,1,Pathogenic,Pathogenic,True
+2682167,PAH,NM_000277.3(PAH):c.1154T>C (p.Leu385Pro),Likely pathogenic,385,L,P,1,1,Pathogenic,Pathogenic,True
+252143,LDLR,NM_000527.5(LDLR):c.1978C>A (p.Gln660Lys),Likely pathogenic,660,Q,K,1,1,Pathogenic,Pathogenic,True
+3911982,CFTR,NM_000492.4(CFTR):c.1526G>A (p.Gly509Asp),Likely pathogenic,509,G,D,1,1,Pathogenic,Pathogenic,True
+53869,CFTR,NM_000492.4(CFTR):c.3G>A (p.Met1Ile),Pathogenic,1,M,I,1,1,Pathogenic,Pathogenic,True
+2109937,LDLR,NM_000527.5(LDLR):c.1102T>A (p.Cys368Ser),Pathogenic,368,C,S,1,1,Pathogenic,Pathogenic,True
+224616,LDLR,NM_000527.5(LDLR):c.1691A>G (p.Asn564Ser),Pathogenic/Likely pathogenic,564,N,S,1,1,Pathogenic,Pathogenic,True
+102700,PAH,NM_000277.3(PAH):c.493G>A (p.Ala165Thr),Likely pathogenic,165,A,T,1,1,Pathogenic,Pathogenic,True
+251260,LDLR,NM_000527.5(LDLR):c.503A>G (p.Asp168Gly),Likely pathogenic,168,D,G,1,1,Pathogenic,Pathogenic,True
+403648,LDLR,NM_000527.5(LDLR):c.2407T>C (p.Cys803Arg),Likely pathogenic,803,C,R,1,1,Pathogenic,Pathogenic,True
+3460301,TP53,NM_000546.6(TP53):c.577C>A (p.His193Asn),Pathogenic/Likely pathogenic,193,H,N,1,1,Pathogenic,Pathogenic,True
+15241,HBB,NM_000518.5(HBB):c.295G>A (p.Val99Met),Pathogenic,99,V,M,1,1,Pathogenic,Pathogenic,True
+54026,CFTR,NM_000492.4(CFTR):c.613C>T (p.Pro205Ser),Pathogenic,205,P,S,1,1,Pathogenic,Pathogenic,True
+37637,BRCA1,NM_007294.4(BRCA1):c.5114T>C (p.Leu1705Pro),Pathogenic/Likely pathogenic,1705,L,P,1,1,Pathogenic,Pathogenic,True
+1737013,LDLR,NM_000527.5(LDLR):c.400T>A (p.Cys134Ser),Pathogenic,134,C,S,1,1,Pathogenic,Pathogenic,True
+251488,LDLR,NM_000527.5(LDLR):c.858C>A (p.Ser286Arg),Likely pathogenic,286,S,R,1,1,Pathogenic,Pathogenic,True
+428862,TP53,NM_000546.6(TP53):c.883C>T (p.Pro295Ser),Likely benign,295,P,S,0,1,Pathogenic,Benign,False
+868409,BRCA1,NM_007294.4(BRCA1):c.4921G>T (p.Ala1641Ser),Likely benign,1641,A,S,0,0,Benign,Benign,True
+102617,PAH,NM_000277.3(PAH):c.181A>G (p.Asn61Asp),Likely pathogenic,61,N,D,1,1,Pathogenic,Pathogenic,True
+54604,BRCA1,NM_007294.4(BRCA1):c.2566T>C (p.Tyr856His),Benign,856,Y,H,0,0,Benign,Benign,True
+35824,CFTR,NM_000492.4(CFTR):c.14C>T (p.Pro5Leu),Pathogenic/Likely pathogenic,5,P,L,1,1,Pathogenic,Pathogenic,True
+251479,LDLR,NM_000527.5(LDLR):c.826T>C (p.Cys276Arg),Likely pathogenic,276,C,R,1,1,Pathogenic,Pathogenic,True
+252008,LDLR,NM_000527.5(LDLR):c.1736A>G (p.Asp579Gly),Likely pathogenic,579,D,G,1,1,Pathogenic,Pathogenic,True
+4856555,BRCA1,NM_007294.4(BRCA1):c.3454G>T (p.Asp1152Tyr),Likely benign,1152,D,Y,0,0,Benign,Benign,True
+4823842,PAH,NM_000277.3(PAH):c.384_385delinsAA (p.Asp129Asn),Likely pathogenic,129,D,N,1,1,Pathogenic,Pathogenic,True
+4802598,LDLR,NM_000527.5(LDLR):c.986G>C (p.Cys329Ser),Likely pathogenic,329,C,S,1,1,Pathogenic,Pathogenic,True
+865512,BRCA1,NM_007294.4(BRCA1):c.4996T>A (p.Tyr1666Asn),Likely benign,1666,Y,N,0,0,Benign,Benign,True
+867750,BRCA1,NM_007294.4(BRCA1):c.79T>C (p.Cys27Arg),Likely pathogenic,27,C,R,1,1,Pathogenic,Pathogenic,True
+440687,LDLR,NM_000527.5(LDLR):c.2260G>A (p.Gly754Arg),Benign,754,G,R,0,1,Pathogenic,Benign,False
+1050301,BRCA1,NM_007294.4(BRCA1):c.3563G>T (p.Arg1188Met),Likely benign,1188,R,M,0,0,Benign,Benign,True
+54971,BRCA1,NM_007294.4(BRCA1):c.370A>G (p.Ile124Val),Benign,124,I,V,0,0,Benign,Benign,True
+618894,CFTR,NM_000492.4(CFTR):c.325T>C (p.Tyr109His),Likely pathogenic,109,Y,H,1,1,Pathogenic,Pathogenic,True
+251194,LDLR,NM_000527.5(LDLR):c.383G>T (p.Cys128Phe),Likely pathogenic,128,C,F,1,1,Pathogenic,Pathogenic,True
+618893,CFTR,NM_000492.4(CFTR):c.950T>A (p.Val317Glu),Likely pathogenic,317,V,E,1,1,Pathogenic,Pathogenic,True
+1924983,LDLR,NM_000527.5(LDLR):c.1999T>G (p.Cys667Gly),Likely pathogenic,667,C,G,1,1,Pathogenic,Pathogenic,True
+2503911,PAH,NM_000277.3(PAH):c.733_735delinsCTA (p.Val245Leu),Pathogenic,245,V,L,1,1,Pathogenic,Pathogenic,True
+865068,BRCA1,NM_007294.4(BRCA1):c.5154G>C (p.Trp1718Cys),Pathogenic,1718,W,C,1,1,Pathogenic,Pathogenic,True
+251079,LDLR,NM_000527.5(LDLR):c.223T>A (p.Cys75Ser),Pathogenic/Likely pathogenic,75,C,S,1,1,Pathogenic,Pathogenic,True
+127820,TP53,NM_000546.6(TP53):c.701A>G (p.Tyr234Cys),Pathogenic/Likely pathogenic,234,Y,C,1,1,Pathogenic,Pathogenic,True
+53626,CFTR,NM_000492.4(CFTR):c.3014T>G (p.Ile1005Arg),Pathogenic/Likely pathogenic,1005,I,R,1,1,Pathogenic,Pathogenic,True
+251585,LDLR,NM_000527.5(LDLR):c.985T>G (p.Cys329Gly),Pathogenic/Likely pathogenic,329,C,G,1,1,Pathogenic,Pathogenic,True
+418517,TP53,NM_000546.6(TP53):c.569C>T (p.Pro190Leu),Pathogenic,190,P,L,1,1,Pathogenic,Pathogenic,True
+251457,LDLR,NM_000527.5(LDLR):c.797A>G (p.Asp266Gly),Likely pathogenic,266,D,G,1,1,Pathogenic,Pathogenic,True
+1693243,PAH,NM_000277.3(PAH):c.196G>A (p.Glu66Lys),Likely pathogenic,66,E,K,1,1,Pathogenic,Pathogenic,True
+4856536,BRCA1,NM_007294.4(BRCA1):c.940G>A (p.Ala314Thr),Likely benign,314,A,T,0,0,Benign,Benign,True
+35880,CFTR,NM_000492.4(CFTR):c.3997G>T (p.Gly1333Trp),Likely pathogenic,1333,G,W,1,1,Pathogenic,Pathogenic,True

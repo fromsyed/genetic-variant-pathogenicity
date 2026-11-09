@@ -1,0 +1,47 @@
+
+# Raw datasets
+data/raw/*
+
+# Keep processed datasets and model
+!data/processed/
+!models/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Build files
+build/
+dist/
+*.egg-info/
