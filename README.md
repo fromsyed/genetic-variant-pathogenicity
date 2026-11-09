@@ -286,3 +286,11 @@ For stronger reproducibility, the repository should also document the ClinVar do
 ## License
 
 An appropriate license should be added before making the repository public. Also document the applicable terms for redistributing any ClinVar-derived data included in the repository.
+
+## Application Screenshots
+
+### Application Overview
+![Application Overview](screenshots/app-overview.png)
+
+### Variant Prediction
+![Variant Prediction](screenshots/variant-prediction.png)
